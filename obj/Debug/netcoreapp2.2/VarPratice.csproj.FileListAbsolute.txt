@@ -1,0 +1,11 @@
+/Users/conordoherty/Documents/ICE03/VarPratice/bin/Debug/netcoreapp2.2/VarPratice.deps.json
+/Users/conordoherty/Documents/ICE03/VarPratice/bin/Debug/netcoreapp2.2/VarPratice.runtimeconfig.json
+/Users/conordoherty/Documents/ICE03/VarPratice/bin/Debug/netcoreapp2.2/VarPratice.runtimeconfig.dev.json
+/Users/conordoherty/Documents/ICE03/VarPratice/bin/Debug/netcoreapp2.2/VarPratice.dll
+/Users/conordoherty/Documents/ICE03/VarPratice/bin/Debug/netcoreapp2.2/VarPratice.pdb
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.csprojAssemblyReference.cache
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.csproj.CoreCompileInputs.cache
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.AssemblyInfoInputs.cache
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.AssemblyInfo.cs
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.dll
+/Users/conordoherty/Documents/ICE03/VarPratice/obj/Debug/netcoreapp2.2/VarPratice.pdb

@@ -19,9 +19,9 @@ namespace VarPratice
 
 
 
-            Console.WriteLine("Hi my name is "+myFirstName +" " +myLastName + " and I am "+myAge +  " I went to "+myHighSchoolName); 
+            Console.WriteLine("Hi my name is "+myFirstName +" " +myLastName + " and I am "+myAge + " years old"); 
             Console.WriteLine("");
-            Console.WriteLine("I graduated in "+yearIGraduated + 
+            Console.WriteLine("I went to "+myHighSchoolName + " And I graduated in "+yearIGraduated + 
               " After that, I decided to come to NTID for college. Both my Mom "+myMomName + " and Dad "+myDadName + 
               "thought NTID would be a great choice for me.");
 
